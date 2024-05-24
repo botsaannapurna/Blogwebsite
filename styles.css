@@ -1,0 +1,44 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif, sans-serif;
+}
+.center{
+    text-align: center;
+    margin: auto;
+}
+*{
+    background-color: rgb(13, 1, 13);
+    color: rgb(235, 231, 232);
+    text-decoration: none;
+}
+
+nav {
+    background-color: #100404;
+    overflow: hidden;
+}
+
+nav {
+    list-style-type: none;
+    margin: 100;
+    padding: 100;
+}
+
+nav{
+    float: right;
+}
+
+nav {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 10px 20px;
+    margin: 0;
+    text-decoration: none;
+}
+
+nav  a:hover {
+    background-color: #221717;
+}
+.link-style {
+margin-left: 50px;
+margin-right: 50px;
+}
